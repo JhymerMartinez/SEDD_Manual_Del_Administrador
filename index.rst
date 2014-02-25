@@ -23,5 +23,8 @@ A continuación se presenta la lista de contenidos:
    /library/intro.rst
    /library/SystemAccess/systemAccess.rst
    /library/Questionary/questionary.rst
+   /library/Signature/signature.rst
+   /library/Evaluation/evaluation.rst
+   /library/Section/section.rst
 
 

@@ -40,6 +40,7 @@
     <script type="text/javascript" src="../../_static/bootstrap-3.0.0/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="../../_static/bootstrap-sphinx.js"></script>
     <link rel="top" title="Manual Del Administrador  documentation" href="../../index.html" />
+    <link rel="next" title="4. Asignaturas" href="../Signature/signature.html" />
     <link rel="prev" title="2. Acceso al sistema" href="../SystemAccess/systemAccess.html" />
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'>
@@ -81,6 +82,9 @@
 <li class="toctree-l1"><a class="reference internal" href="../intro.html">1. Introducción</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../SystemAccess/systemAccess.html">2. Acceso al sistema</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="">3. Cuestionarios</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Signature/signature.html">4. Asignaturas</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Evaluation/evaluation.html">5. Evaluaciones</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../Section/section.html">6. Secciones</a></li>
 </ul>
 </ul>
 </li>
@@ -89,7 +93,11 @@
   <a href="#" class="dropdown-toggle" data-toggle="dropdown">En esta Página<b class="caret"></b></a>
   <ul class="dropdown-menu localtoc"><ul>
 <li><a class="reference internal" href="#">3. Cuestionarios</a><ul>
-<li><a class="reference internal" href="#crear-un-cuestionario">3.1. Crear un cuestionario</a></li>
+<li><a class="reference internal" href="#crear-un-cuestionario">3.1. Crear un cuestionario</a><ul>
+<li><a class="reference internal" href="#informacion-de-campos-y-opciones-en-cuestionarios">3.1.1. Información de campos y opciones en Cuestionarios</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#modificar-cuestionario">3.2. Modificar Cuestionario</a></li>
 </ul>
 </li>
 </ul>
@@ -102,6 +110,8 @@
                 
   <li><a href="../SystemAccess/systemAccess.html"
          title="Previous Chapter: 2. Acceso al sistema">&laquo; 2. Acceso al sis...</a></li>
+  <li><a href="../Signature/signature.html"
+         title="Next Chapter: 4. Asignaturas">4. Asignaturas &raquo;</a></li>
               
             
             
@@ -135,21 +145,62 @@
 <span id="questionary-title"></span><h1>3. Cuestionarios<a class="headerlink" href="#cuestionarios" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="crear-un-cuestionario">
 <span id="questionary-new"></span><h2>3.1. Crear un cuestionario<a class="headerlink" href="#crear-un-cuestionario" title="Permalink to this headline">¶</a></h2>
-<p>Para ingresar un cuestionario se debe seleccionar la opción <strong>Cuestionarios</strong> de la lista de opciones(ver <a class="reference internal" href="../SystemAccess/systemAccess.html#systemaccess-img-administrative-site"><em>Figura 2.  Sitio Administrativo</em></a>  ). El sistema presenta los cuestionarios ya ingresados y que se pueden editar, al cual usted puede acceder para
+<p>Para ingresar un cuestionario se debe seleccionar la opción <strong>Cuestionarios</strong> de la lista de opciones(ver imagen <a class="reference internal" href="../SystemAccess/systemAccess.html#systemaccess-img-sistemaccess-administrative-site"><em>Sitio Administrativo</em></a>  ). El sistema presenta los cuestionarios ya ingresados y que se pueden editar, al cual usted puede acceder para
 modificarlo o a su vez puede crear uno nuevo haciendo clic en la parte superior derecha como se muestra a continuación:</p>
-<div class="align-center figure" id="questionary-img-questionary-option">
-<img alt="Menú Cuestionarios" src="../../_images/questionary_option.png" />
-<p class="caption"><strong>Figura 5. Menú Cuestionarios</strong></p>
+<div class="align-center figure" id="questionary-img-questionary-main-option">
+<img alt="Menú Cuestionarios" src="../../_images/questionary_main_option.png" />
+<p class="caption"><strong>Menú Cuestionarios</strong></p>
 </div>
 <p>Para crear un nuevo Cuestionario podemos hacerlo de 2 maneras, una directa usando el boton <strong>Añadir</strong> o haciendo clic en la opción Cuestionarios y a continuación en <strong>Añadir cuestionario</strong>. Ver la siguiente imagen:</p>
 <div class="align-center figure" id="questionary-img-questionary-buton-new">
 <img alt="Crear un cuestionario" src="../../_images/questionary_buton_new.png" />
-<p class="caption"><strong>Figura 6. Crear un cuestionario</strong></p>
+<p class="caption"><strong>Crear un cuestionario</strong></p>
 </div>
 <p>A continuación se abre una pestaña con la plantilla y opciones necesarias para crear un nuevo cuestionario:</p>
 <div class="align-center figure" id="questionary-img-questionary-new">
 <img alt="Cuestionario en blanco" src="../../_images/questionary_new.png" />
-<p class="caption"><strong>Figura 7. Cuestionario en blanco</strong></p>
+<p class="caption"><strong>Cuestionario en blanco</strong></p>
+</div>
+<div class="section" id="informacion-de-campos-y-opciones-en-cuestionarios">
+<span id="questionary-options"></span><h3>3.1.1. Información de campos y opciones en Cuestionarios<a class="headerlink" href="#informacion-de-campos-y-opciones-en-cuestionarios" title="Permalink to this headline">¶</a></h3>
+<p>La opciones disponibles son:</p>
+<blockquote>
+<div><ul class="simple">
+<li><strong>Nombre:</strong> Nombre que se le asigna al cuestionario y con el cual se lo identificará dentro del Sistema</li>
+<li><strong>Título:</strong> Título para el cuestionario, dicho título será visible por los estudiantes el momento que desarrollen la encuesta.</li>
+<li><strong>Encabezado:</strong> Constituye el encabezado que presentará la encuesta, es recomendable, en esta sección, añadir parametros como una presentación y nociones sobre como desarrollar la encuesta(ver imagen <a class="reference internal" href="#questionary-img-questionary-edit-encabezado"><em>Edición de encabezado</em></a>).</li>
+<li><strong>Inicio de la Encuesta:</strong> Fecha y hora en que se abrirá la encuesta para el publico.</li>
+<li><strong>Finalización de la Encuesta:</strong> Fecha y hora en que la encuesta será cerrada.</li>
+<li><strong>Preguntas obligatorias:</strong> Esta opción debe estar seleccionada con el fín de garantizar que todas las preguntas serán respondidas.</li>
+<li><strong>Informante:</strong> A quien va dirigida la encuesta</li>
+<li><strong>Peso:</strong> Valor que será asignado a cada pregunta, necesario para realizar un posterior promedio</li>
+<li><strong>Periodo de Evaluación:</strong> Permite seleccionar el periodo en que se desarrollara la encuesta. El mismo que previamente debió ser creado.</li>
+</ul>
+</div></blockquote>
+<div class="align-center figure" id="questionary-img-questionary-edit-encabezado">
+<img alt="Edición de encabezado" src="../../_images/questionary_edit_encabezado.png" />
+<p class="caption"><strong>Edición de encabezado</strong></p>
+</div>
+<p>Al terminar de editar la encuesta debe presionar el botón grabar como se muestra en la imagen <a class="reference internal" href="#questionary-img-questionary-complete"><em>Cuestionario completo</em></a>. El sistema
+guarda todos los cambios.</p>
+<p>El sistema presentara nuevamente la lista de opciones que puede realizar el administrador en cuanto a la aplicación se aclara que es la misma lista presentada en la imagen <a class="reference internal" href="../SystemAccess/systemAccess.html#systemaccess-img-sistemaccess-administrative-site"><em>Sitio Administrativo</em></a>.</p>
+<div class="align-center figure" id="questionary-img-questionary-complete">
+<img alt="Cuestionario con todos los campos" src="../../_images/questionary_complete2.png" />
+<p class="caption"><strong>Cuestionario completo</strong></p>
+</div>
+</div>
+</div>
+<div class="section" id="modificar-cuestionario">
+<span id="questionary-edit"></span><h2>3.2. Modificar Cuestionario<a class="headerlink" href="#modificar-cuestionario" title="Permalink to this headline">¶</a></h2>
+<p>Para realizar una modificación sobre aun cuestionario, partimos haciendo clic sobre el misma y procedemos a la edición de campos presentada en la sección anterior(ver <a class="reference internal" href="#questionary-options"><em>Información de campos y opciones en Cuestionarios</em></a>)</p>
+<div class="align-center figure" id="questionary-img-questionary-list">
+<img alt="Lista de Cuestionarios" src="../../_images/questionary_list.png" />
+<p class="caption"><strong>Lista de Cuestionarios</strong></p>
+</div>
+<p>Una vez realizados los cambios se procede a <strong>Guardar</strong>:</p>
+<div class="align-center figure" id="questionary-img-questionary-edit">
+<img alt="Editando Cuestionario" src="../../_images/questionary_edit.png" />
+<p class="caption"><strong>Editando Cuestionario</strong></p>
 </div>
 </div>
 </div>
