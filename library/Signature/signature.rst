@@ -103,7 +103,6 @@ Una vez realizados los cambios se procede a **Guardar**:
     :alt: Edición de Asignatura
     :figclass: align-center
 
-<<<<<<< HEAD
     **Edición de Asignatura**
 
 Para eliminar una Asignatura basta con hacer clic en la opción **eliminar** ubicada en la parte inferior izquierda de la pantalla. Posteriormente se solicitará una confirmación, una vez aceptada se eliminara la Asignatura de la Base de Datos:
@@ -116,6 +115,3 @@ Para eliminar una Asignatura basta con hacer clic en la opción **eliminar** ubi
     :figclass: align-center
 
     **Opción Eliminar Asignatura**
-=======
-    **Edición de Asignatura**
->>>>>>> 2d0877f30d83832f0e4886ec7214a05c0ac0eef8

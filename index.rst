@@ -26,9 +26,6 @@ A continuación se presenta la lista de contenidos:
    /library/Signature/signature.rst
    /library/Evaluation/evaluation.rst
    /library/Section/section.rst
-<<<<<<< HEAD
    /library/Question/question.rst
-=======
->>>>>>> 2d0877f30d83832f0e4886ec7214a05c0ac0eef8
 
 

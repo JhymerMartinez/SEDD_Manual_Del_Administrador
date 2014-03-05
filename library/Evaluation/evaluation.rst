@@ -90,9 +90,5 @@ Aqui vemos un ejemplo:
     :alt: Resumen de Evaluaciones
     :figclass: align-center
 
-<<<<<<< HEAD
     **Resumen de Evaluaciones**
 
-=======
-    **Resumen de Evaluaciones**
->>>>>>> 2d0877f30d83832f0e4886ec7214a05c0ac0eef8
