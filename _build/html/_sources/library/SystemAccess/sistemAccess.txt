@@ -1,0 +1,19 @@
+.. _sistemAccess-title:
+
+*****************
+Acceso al sistema
+*****************
+
+
+.. _sistemAccess-img-login:
+
+.. figure:: ../../_static/sistemAccess/login.png 
+    :align: center
+    :alt: Ingreso al Sistema
+    :figclass: align-center
+
+    **Fig 1.  Ingreso al Sistema**
+
+
+
+localhost:8000/admin/
