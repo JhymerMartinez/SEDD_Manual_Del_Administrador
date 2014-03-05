@@ -76,6 +76,7 @@ Para realizar una modificación sobre alguna sección, partimos de la lista de s
 
     **Modificando Sección**
 
+<<<<<<< HEAD
 En caso de necesitar eliminar una Sección basta con hacer clic en la opción eliminar ubicada en la parte inferior izquierda de la pantalla. Posteriormente se solicitará una confirmación, una vez aceptada se eliminara la sección de la Base de Datos
 
 .. _section-img-section_buton_delete:
@@ -92,6 +93,13 @@ En caso de necesitar eliminar una Sección basta con hacer clic en la opción el
 
 Administrar Subsecciones
 ========================
+=======
+
+.. _section-subsection-new-delete:
+
+Crear y Eliminar Subsecciones
+==============================
+>>>>>>> 2d0877f30d83832f0e4886ec7214a05c0ac0eef8
 
 Tenemos la posibilidad de añadir y modificar cualquier cantidad de subsecciones que se consideren necesarias incorporar a la sección actual como se aprecia a continuación:
 

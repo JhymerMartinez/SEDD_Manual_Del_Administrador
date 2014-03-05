@@ -61,9 +61,12 @@ La opciones disponibles son:
     • **Peso:** Valor que será asignado a cada pregunta, necesario para realizar un posterior promedio
     • **Periodo de Evaluación:** Permite seleccionar el periodo en que se desarrollara la encuesta. El mismo que previamente debió ser creado.
 
+<<<<<<< HEAD
 
 En la siguiente imagen vemos un ejemplo de como debería quedar el encabezado:
 
+=======
+>>>>>>> 2d0877f30d83832f0e4886ec7214a05c0ac0eef8
 .. _questionary-img-questionary_edit_encabezado:
 
 .. figure:: ../../_static/questionary/questionary_edit_encabezado.png 
@@ -74,6 +77,7 @@ En la siguiente imagen vemos un ejemplo de como debería quedar el encabezado:
     **Edición de encabezado**
 
 
+<<<<<<< HEAD
 Al terminar de editar la encuesta debe presionar el botón grabar como se muestra en la imagen :ref:`questionary-img-questionary_edit`. El sistema guarda todos los cambios.
 
 .. El sistema presentara nuevamente la lista de opciones que puede realizar el administrador en cuanto a la aplicación se aclara que es la misma lista presentada en la imagen :ref:`systemAccess-img-sistemAccess_administrative_site`.
@@ -87,6 +91,22 @@ Al terminar de editar la encuesta debe presionar el botón grabar como se muestr
         :figclass: align-center
 
 ..        **Cuestionario completo**
+=======
+Al terminar de editar la encuesta debe presionar el botón grabar como se muestra en la imagen :ref:`questionary-img-questionary_complete`. El sistema
+guarda todos los cambios.
+
+El sistema presentara nuevamente la lista de opciones que puede realizar el administrador en cuanto a la aplicación se aclara que es la misma lista presentada en la imagen :ref:`systemAccess-img-sistemAccess_administrative_site`.
+
+
+.. _questionary-img-questionary_complete:
+
+.. figure:: ../../_static/questionary/questionary_complete2.png 
+    :align: center
+    :alt: Cuestionario con todos los campos
+    :figclass: align-center
+
+    **Cuestionario completo**
+>>>>>>> 2d0877f30d83832f0e4886ec7214a05c0ac0eef8
 
 
 .. _questionary-edit:
@@ -112,6 +132,7 @@ Una vez realizados los cambios se procede a **Guardar**:
 
 .. figure:: ../../_static/questionary/questionary_edit.png 
     :align: center
+<<<<<<< HEAD
     :alt: Cuestionario completo
     :figclass: align-center
 
@@ -127,3 +148,9 @@ Para eliminar un questionario basta con hacer clic en la opción **eliminar** ub
     :figclass: align-center
 
     **Opción Eliminar Cuestionario**
+=======
+    :alt: Editando Cuestionario
+    :figclass: align-center
+
+    **Editando Cuestionario**
+>>>>>>> 2d0877f30d83832f0e4886ec7214a05c0ac0eef8
