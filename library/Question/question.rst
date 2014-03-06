@@ -20,7 +20,7 @@ Igual que en procesos anteriores, partimos desde el menú principal (ver imagen 
     **Menú Preguntas**
 
 
-Una vez realizado esto, se nos presenta una lista con todas las preguntas creadas hasta la fecha. Para crear una nueva Pregunta, hacemos clic en la opción Añadir Pregunta ubicada en la parte superior derecha de la pantalla como se muestra en la siguiente imagen:
+Una vez realizado esto, se nos presenta una lista con todas las preguntas creadas hasta la fecha. Para crear una nueva Pregunta, hacemos clic en la opción Añadir Pregunta ubicada en la parte superior derecha de la pantalla:
 
 .. _question-img-question_option_new:
 
@@ -57,7 +57,7 @@ A continuación se detalla cada campo y la información que deben contener los m
 	• **Ítem Preguntas:** (ver :ref:`question-items_admin`) 
 
 
-A continuación un ejemplo completo con todos los campos completos:
+A continuación un ejemplo con los campos completos:
 
 .. _question-img-question_complete:
 

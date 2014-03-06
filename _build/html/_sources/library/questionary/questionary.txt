@@ -9,8 +9,7 @@ Cuestionarios
 Crear un cuestionario
 =====================
 
-Para ingresar un cuestionario se debe seleccionar la opción **Cuestionarios** de la lista de opciones(ver imagen :ref:`systemAccess-img-sistemAccess_administrative_site`  ). El sistema presenta los cuestionarios ya ingresados y que se pueden editar, al cual usted puede acceder para
-modificarlo o a su vez puede crear uno nuevo haciendo clic en la parte superior derecha como se muestra a continuación:
+Para ingresar un cuestionario se debe seleccionar la opción **Cuestionarios** de la lista de opciones(ver imagen :ref:`systemAccess-img-sistemAccess_administrative_site`  ). El sistema presenta los cuestionarios ya ingresados a los cuales puede acceder para modificarlos o a su vez puede crear nuevos haciendo clic en la parte superior derecha como se muestra a continuación:
 
 .. _questionary-img-questionary_main_option:
 
@@ -49,7 +48,7 @@ A continuación se abre una pestaña con la plantilla y opciones necesarias para
 
 Información de campos y opciones en Cuestionarios
 *************************************************
-La opciones disponibles son:
+La campos a completar son:
 
     • **Nombre:** Nombre que se le asigna al cuestionario y con el cual se lo identificará dentro del Sistema    
     • **Título:** Título para el cuestionario, dicho título será visible por los estudiantes el momento que desarrollen la encuesta.

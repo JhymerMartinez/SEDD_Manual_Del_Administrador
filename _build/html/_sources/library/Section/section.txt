@@ -65,7 +65,7 @@ Como se aprecia en la siguiente imagen:
 Modificar Secciones
 ======================
 
-Para realizar una modificación sobre alguna sección, partimos de la lista de secciones anteriormente descrita y modificamos los campos de acuerdo a los lineamientos anteriormente explicados (ver :ref:` section-options`). En la siguiente imagen se muestra un ejemplo:
+Para realizar una modificación sobre alguna sección, partimos de la lista de secciones anteriormente descrita y modificamos los campos de acuerdo a los lineamientos anteriormente explicados (ver :ref:`section-options`). En la siguiente imagen se muestra un ejemplo:
 
 .. _section-img-section_edit:
 

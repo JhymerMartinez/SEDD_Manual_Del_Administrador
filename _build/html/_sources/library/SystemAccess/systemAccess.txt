@@ -25,8 +25,8 @@ Una vez que el sistema valide sus datos, ingresa al sistema, este presenta la si
 
 	• **Sitio Administrativo.-** Se ubica una lista de opciones que corresponden a actividades designadas al administrador del sistema.
 	• **Nombre de Usuario.-** En la esquina superior derecha se observa el nombre del administrador del Sistema de Evaluación de Desempeño de los Docentes (SEDD)
-	• **Cambio de Contraseña.-** A continuación del Nombre de Usuario, se presenta la opción para poder cambiar la contraseña del actual administrador.
-	• **Terminar Sesión.-** A continuación del Cambio de Contraseña se presenta la opción de cerrar la sesión actual.
+	• **Cambio de Contraseña.-** Esta opción como su nombre lo indica,permite cambiar la contraseña actual del administrador.
+	• **Terminar Sesión.-** A continuación del Cambio de Contraseña se presenta la opción de cerrar la sesión.
 
 
 .. _systemAccess-img-sistemAccess_administrative_site:
