@@ -59,7 +59,7 @@ Detallando cada campo: (ver imagen :ref:`signature-img-subject_complete`)
 	• **Ciclo(Módulo):** Se escribe el módulo en la cual de estudia la presente asignatura.
 	• **Paralelo:** Se escribe el paralelo en el cual se va a dictar la presente asignatura.
 	• **Nombre:** Se escribe el nombre que va a poseer la presente asignatura.
-	• **Carrera Senescyt:** 
+	• **Carrera Senescyt:** Código asignado por el Senescyt como identificativo para cada carrera.
 	• **Tipo:** Se escribe el tipo de la presente asignatura.
 	• **Numero de créditos:** Se escribe el número de créditos, es decir el valor que aporta la presente asignatura.
 	• **Duración en Horas:** Se determina el número de horas en las cuales se va a dictar la presente asignatura.

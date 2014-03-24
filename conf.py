@@ -222,7 +222,8 @@ latex_documents = [
 # If false, no module index is generated.
 #latex_domain_indices = True
 
-
+pdf_documents = [('index', u'SEDD_Manual_Del_Administrador',
+u'Sphinx', u'Ing. Milton Labanda, Jhymer Martínez'),]
 # -- Options for manual page output ---------------------------------------
 
 # One entry per manual page. List of tuples

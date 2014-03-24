@@ -49,8 +49,8 @@ Detalle de campos para una Nueva Pregunta
 A continuación se detalla cada campo y la información que deben contener los mismos:
 
 	• **Sección:** En este campo se debe seleccionar la Sección a la que va enfocado el cuestionario con la pregunta que estamos creando. 
-	• **Orden:**
-	• **Codigo:**
+	• **Orden:** El orden en el que aparecerá la pregunta dentro de la sección.
+	• **Codigo:** Código identificativo de la pregunta, necesario para diferenciarla del resto de preguntas.
 	• **Texto:** El texto propiamente dicho que poseera la pregunta.
 	• **Descipción:** Una descripción que haga referencia a la pregunta que se esta creando.
 	• **Tipo:** El tipo de pregunta que es, por ejemplo **Selección única**

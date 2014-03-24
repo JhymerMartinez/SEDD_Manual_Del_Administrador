@@ -12,7 +12,7 @@ Crear Secciones
 Para crear una nueva sección primero seleccionamos la opción **Secciones** del menú principal (ver imagen :ref:`systemAccess-img-sistemAccess_administrative_site`) como se muestra a continuación:
 
 
-.. _section-img-section_main_new:
+.. section-img-section_main_new:
 
 .. figure:: ../../_static/Section/section_main_new.png 
     :align: center
@@ -39,13 +39,13 @@ Descripción de campos para una Nueva Sección
 
 Procedemos a completar los campos descritos a continuación:
 
-	• **Cuestionario:**
-	• **Código:**
-	• **Nombre:**
-	• **Título:**
-	• **Descripción:**
-	• **Orden:**
-	• **Ponderación:** 
+	• **Cuestionario:** Cuestionario al que pertenece la sección que se está creando.
+	• **Código:** Código identificativo para cada sección. Cada código es único para una sección y debe estar relacionado con el área a la que pertenezca, por ejemplo si la sección pertenece CAPACIDAD PEDAGÓGICA, debería tener un código del tipo **CPG.2.01**. 
+	• **Nombre:** Nombre de la sección, el mismo será visible una vez creada la sección y aparecerá como referencia en la lista de secciones (ver imagen :ref:`section-img-section_option_new_section`)
+	• **Título:** Título que poseerá la sección, comúnmente se utilizará el mismo que el código asignado anteriormente.
+	• **Descripción:** Descripción de la sección que se esta creando.
+	• **Orden:** El orden con que se presentara la sección cuando se cargue el cuestionario.
+	• **Ponderación:** La ponderación que tendra la sección.
 	• **Subsecciones:** (ver :ref:`section-subsection-new-delete`)
 
 Como se aprecia en la siguiente imagen:

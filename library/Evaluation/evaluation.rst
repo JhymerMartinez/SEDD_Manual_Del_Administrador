@@ -13,7 +13,7 @@ Para observar la lista de evaluaciones realizadas, se debe seleccionar la opció
 
 .. _evaluation-img-evaluation_main:
 
-.. figure:: ../../_static/Evaluation/evaluation_main.png 
+.. figure:: ../../_static/evaluation/evaluation_main.png 
     :align: center
     :alt: Opción Evaluaciones
     :figclass: align-center
@@ -23,7 +23,7 @@ Para observar la lista de evaluaciones realizadas, se debe seleccionar la opció
 
 .. _evaluation-img-evaluation_list:
 
-.. figure:: ../../_static/Evaluation/evaluation_list.png 
+.. figure:: ../../_static/evaluation/evaluation_list.png 
     :align: center
     :alt: Lista de Evaluaciones
     :figclass: align-center
@@ -35,7 +35,7 @@ Debido a la cantidad de evaluaciones, lo ideal es realizar un filtrado (búsqued
 
 .. _evaluation-img-evaluation_filter:
 
-.. figure:: ../../_static/Evaluation/evaluation_filter.png 
+.. figure:: ../../_static/evaluation/evaluation_filter.png 
     :align: center
     :alt: Filtrado de Evaluaciones
     :figclass: align-center
@@ -46,7 +46,7 @@ Una vez encontrado el registro deseado, se procede a seleccionar y presentar la 
 
 .. _evaluation-img-evaluation_answers:
 
-.. figure:: ../../_static/Evaluation/evaluation_answers.png 
+.. figure:: ../../_static/evaluation/evaluation_answers.png 
     :align: center
     :alt: Evaluación detallada
     :figclass: align-center
@@ -63,7 +63,7 @@ Existe la posibilidad de detallar la información de una forma general para pres
 
 .. _evaluation-img-evaluation_summary_button:
 
-.. figure:: ../../_static/Evaluation/evaluation_summary_button.png 
+.. figure:: ../../_static/evaluation/evaluation_summary_button.png 
     :align: center
     :alt: Opción Resumen de Evaluaciones
     :figclass: align-center
@@ -85,7 +85,7 @@ Aqui vemos un ejemplo:
 
 .. _evaluation-img-evaluation_summary:
 
-.. figure:: ../../_static/Evaluation/evaluation_summary.png 
+.. figure:: ../../_static/evaluation/evaluation_summary.png 
     :align: center
     :alt: Resumen de Evaluaciones
     :figclass: align-center
