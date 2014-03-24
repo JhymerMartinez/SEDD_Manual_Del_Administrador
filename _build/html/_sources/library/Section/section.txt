@@ -97,12 +97,23 @@ Tenemos la posibilidad de añadir y modificar cualquier cantidad de subsecciones
 
 .. _section-img-section_complete:
 
-.. figure:: ../../_static/Section/section_complete.png 
+.. figure:: ../../_static/Section/section_complete_1.png 
     :align: center
     :alt: Sección Completa
     :figclass: align-center
 
-    **Sección Completa**
+    **Sección Completa parte 1**
+
+
+.. _section-img-section_complete_2:
+
+.. figure:: ../../_static/Section/section_complete_2.png 
+    :align: center
+    :alt: Sección Completa
+    :figclass: align-center
+
+    **Sección Completa parte 2**
+
 
 .. _section-subsection-new:
 

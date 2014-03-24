@@ -46,12 +46,21 @@ Una vez encontrado el registro deseado, se procede a seleccionar y presentar la 
 
 .. _evaluation-img-evaluation_answers:
 
-.. figure:: ../../_static/evaluation/evaluation_answers.png 
+.. figure:: ../../_static/evaluation/evaluation_answers_1.png 
     :align: center
     :alt: Evaluación detallada
     :figclass: align-center
 
-    **Evaluación detallada**
+    **Evaluación detallada parte 1**
+
+.. _evaluation-img-evaluation_answers_2:
+
+.. figure:: ../../_static/evaluation/evaluation_answers_2.png 
+    :align: center
+    :alt: Evaluación detallada
+    :figclass: align-center
+
+    **Evaluación detallada parte 2**
 
 
 .. _evaluation-abstract:
